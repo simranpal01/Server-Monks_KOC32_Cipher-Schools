@@ -1,5 +1,5 @@
 n_th_term = int(input("Enter the nth term: "))
-
+#simranpal
 if(n_th_term>0):
 #palindrome check
     def palin(x):
